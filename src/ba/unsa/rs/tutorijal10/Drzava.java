@@ -37,7 +37,7 @@ public class Drzava {
         return broj_stanovnika;
     }
 
-    public void setBroj_stanovnika(int broj_stanovnika) {
+    public void setBroj_stanovnika(int broj_stanovnika) {,
         this.broj_stanovnika = broj_stanovnika;
     }
 
