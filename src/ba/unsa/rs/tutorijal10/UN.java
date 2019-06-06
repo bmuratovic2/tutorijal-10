@@ -19,4 +19,11 @@ public class UN {
 
     public UN() {
     }
+
+    @Override
+    public String toString() {
+        return "UN{" +
+                "lista=" + lista +
+                '}';
+    }
 }
